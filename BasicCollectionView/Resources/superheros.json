@@ -1,0 +1,81 @@
+[
+    {
+        "id": 0,
+        "name": "Batman",
+        "imageNames": ["batman"],
+        "rating": ""
+    },
+    {
+        "id": 1,
+        "name": "Jango Fett",
+        "imageNames": ["bobafet"],
+        "rating": ""
+    },
+    {
+        "id": 2,
+        "name": "Deadpool",
+        "imageNames": ["deadpool"],
+        "rating": ""
+    },
+    {
+        "id": 3,
+        "name": "Flash",
+        "imageNames": ["flash"],
+        "rating": ""
+    },
+    {
+        "id": 4,
+        "name": "Groot",
+        "imageNames": ["groot"],
+        "rating": ""
+    },
+    {
+        "id": 5,
+        "name": "Hulk",
+        "imageNames": ["hulk"],
+        "rating": ""
+    },
+    {
+        "id": 6,
+        "name": "Ironman",
+        "imageNames": ["ironman"],
+        "rating": ""
+    },
+    {
+        "id": 7,
+        "name": "Joker",
+        "imageNames": ["joker"],
+        "rating": ""
+    },
+    {
+        "id": 8,
+        "name": "Mr. T",
+        "imageNames": ["mr-t"],
+        "rating": ""
+    },
+    {
+        "id": 9,
+        "name": "Rocket",
+        "imageNames": ["rocket"],
+        "rating": ""
+    },
+    {
+        "id": 10,
+        "name": "Spiderman",
+        "imageNames": ["spiderman"],
+        "rating": ""
+    },
+    {
+        "id": 11,
+        "name": "Thor",
+        "imageNames": ["thor"],
+        "rating": ""
+    },
+    {
+        "id": 12,
+        "name": "Yoda",
+        "imageNames": ["yoda"],
+        "rating": ""
+    },
+
+]
